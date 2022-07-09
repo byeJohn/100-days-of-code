@@ -49,3 +49,9 @@ Worked on Responsive Web Design on @freeCodeCamp:
 ### Link(s) to work
 
 1. [@freeCodeCamp's Responsive Web Design Course.](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
+
+## Day 0: Before #100DaysOfCode
+
+### Progress:
+
+
