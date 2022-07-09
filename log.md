@@ -8,12 +8,13 @@ Worked on Responsive Web Design on @freeCodeCamp:
 
 - Learn Accessibility by Building a Quiz. (59% → 100%)
 - Started Pokémon JavaScript Game (HTML Canvas) project.
+- Started to provide updates to the (Log)[log.md] with the day's progress.
 - Still working on #Flutter application.  
 
 ### Thoughts
 
-- Insert text here
-- 
+- Nothing yet...
+- Nothing yet...
 
 ### Link(s) to work
 
