@@ -17,6 +17,6 @@ Worked on Responsive Web Design on @freeCodeCamp:
 
 ### Link(s) to work
 
-1.[@freeCodeCamp's Responsive Web Design Course.](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz)
-2.[ Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA)
-3.
+1. [@freeCodeCamp's Responsive Web Design Course.](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-accessibility-by-building-a-quiz)
+2. [ Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA)
+3. 
