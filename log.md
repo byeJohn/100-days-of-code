@@ -8,7 +8,7 @@ Worked on Responsive Web Design on [@freeCodeCamp](https://www.freecodecamp.org/
 
 - Learn Accessibility by Building a Quiz. (59% → 100%)
 
-#100DaysOfCode:
+[#100DaysOfCode](https://www.100daysofcode.com/):
 - Started to provide updates to the (Log)[log.md] with the day's progress.
 
 Side Projects:
