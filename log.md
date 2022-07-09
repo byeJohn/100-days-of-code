@@ -40,3 +40,12 @@ Worked on Responsive Web Design on @freeCodeCamp:
 - Learn CSS Flexbox by Building a Photo Gallery. (0% → 100%)
 - Learn Typography by Building a Nutrition Label. (0% → 100%)
 - Learn Accessibility by Building a Quiz. (0% → 59%)
+
+### Thoughts
+
+-
+-
+
+### Link(s) to work
+
+1. [@freeCodeCamp's Responsive Web Design Course.](https://www.freecodecamp.org/learn/2022/responsive-web-design/)
