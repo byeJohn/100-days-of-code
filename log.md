@@ -4,7 +4,7 @@
 
 ### Today's Progress:
 
-Worked on Responsive Web Design on @freeCodeCamp: 
+Worked on Responsive Web Design on [@freeCodeCamp](https://www.freecodecamp.org/): 
 
 - Learn Accessibility by Building a Quiz. (59% → 100%)
 
