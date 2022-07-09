@@ -54,4 +54,12 @@ Worked on Responsive Web Design on @freeCodeCamp:
 
 ### Progress:
 
+### Thoughts
 
+-
+-
+
+### Link(s) to work
+
+1.[LIS2 Twitter Bot.](https://twitter.com/LIS2RT)
+2.[Personal Website](https://github.com/byeJohn/Personal-Website) 
