@@ -43,8 +43,8 @@ Worked on Responsive Web Design on @freeCodeCamp:
 
 ### Thoughts
 
--
--
+- Nothing yet...
+- Nothing yet...
 
 ### Link(s) to work
 
@@ -56,8 +56,8 @@ Worked on Responsive Web Design on @freeCodeCamp:
 
 ### Thoughts
 
--
--
+- Nothing yet...
+- Nothing yet...
 
 ### Link(s) to work
 
