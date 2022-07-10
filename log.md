@@ -17,9 +17,9 @@ Side Projects:
 
 ### Thoughts
 
-- After a week I finally pushed myself to finish "Learn Accessibility by Building a Quiz." Usually these courses do not take me this long to complete but this past week I have been feeling unmotivated. Today my friend suggested that I complete the [Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA) as a day project/challenge and now I feel as motivated as ever! 
+- After a week, I finally pushed myself to finish "Learn Accessibility by Building a Quiz." Usually these courses do not take me this long to complete but this past week I have been feeling unmotivated. Today my friend suggested that I follow the [Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA) as a day project/challenge and now I feel as motivated as ever! 
 
-- Today I also started logging my progress on github and I feel like it will make me more accountable.
+- Today I also started logging my progress on Github and I feel like it will make me more accountable.
 
 ### Link(s) to work
 
