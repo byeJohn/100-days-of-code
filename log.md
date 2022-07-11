@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log
 
+## Day 17: July 11, 2022, Monday
+
+### Today's Progress:
+
+Worked on Responsive Web Design on [@freeCodeCamp](https://www.freecodecamp.org/): 
+
+- Tribute Page. (Started)
+
+[#100DaysOfCode](https://www.100daysofcode.com/):
+- Added to the (Log)[log.md] with addition information on previous DaysOfCode. 
+
+Side Projects:
+- Started Pokémon JavaScript Game (HTML Canvas) project. (1 Hour)
+- Still working on #Flutter application.  
+
+### Thoughts
+
+- While working on the Pokémon JavaScript Game (HTML Canvas) project, I made a mistake of not saving my "index.html" and "index.js" files. I was having issues displaying what I wrote on my code editor onto the opened index.html but the issue was that I wasn't saving the file for it to update. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Day 17: July 10, 2022, Sunday
 
 ### Today's Progress:
