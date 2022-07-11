@@ -19,7 +19,7 @@ Side Projects:
 
 - Adding in the Pokemon JavaScript Game was a good change of pace. I have really been enjoying it.
  
-- FreeCodeCamp designs their courses well. I feel like this is the most I have learnt in a while and their style of teaching is really encouraging.
+- FreeCodeCamp designs their courses well. I feel like this is the most I have learnt in a while and their style of teaching is really encouraging. I have to build a tribute page and I plan to create one for Franco Columbu, my favorite bodybuilder!
 
 ### Link(s) to work
 
