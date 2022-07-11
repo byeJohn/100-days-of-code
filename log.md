@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log
 
+## Day 17: July 10, 2022, Sunday
+
+### Today's Progress:
+
+Worked on Responsive Web Design on [@freeCodeCamp](https://www.freecodecamp.org/): 
+
+- Tribute Page. (Started)
+
+[#100DaysOfCode](https://www.100daysofcode.com/):
+- Added to the (Log)[log.md] with addition information on previous DaysOfCode. 
+
+Side Projects:
+- Started Pokémon JavaScript Game (HTML Canvas) project. (1 Hour)
+- Still working on #Flutter application.  
+
+### Thoughts
+
+- Nothing yet..,
+
+### Link(s) to work
+
+1. [@freeCodeCamp's Responsive Web Design Course.](https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-tribute-page-project/build-a-tribute-page)
+2. [Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA)
+3. [100 Days Of Code - Log](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
+
 ## Day 16: July 09, 2022, Saturday
 
 ### Today's Progress:
