@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-## Day 17: July 11, 2022, Monday
+## Day 18: July 11, 2022, Monday
 
 ### Today's Progress:
 
@@ -19,7 +19,10 @@ Side Projects:
 
 - While working on the Pokémon JavaScript Game (HTML Canvas) project, I made a mistake of not saving my "index.html" and "index.js" files. I was having issues displaying what I wrote on my code editor onto the opened index.html but the issue was that I wasn't saving the file for it to update. 
 
+### Link(s) to work
 
+1. [Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA)
+2. [100 Days Of Code - Log](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
 
 
 
