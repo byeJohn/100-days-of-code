@@ -1,5 +1,24 @@
 # 100 Days Of Code - Log
 
+##Day 20: July 13, 2022, Wednesday
+
+### Today's Progress:
+
+### Thoughts
+
+### Link(s) to work
+1. [Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA)
+2. [100 Days Of Code - Log](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
+
+
+
+
+
+
+
+
+
+
 ## Day 19: July 12, 2022, Tuesday
 
 ### Today's Progress:
