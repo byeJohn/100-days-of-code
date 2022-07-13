@@ -4,6 +4,12 @@
 
 ### Today's Progress:
 
+[#100DaysOfCode](https://www.100daysofcode.com/):
+- Added to the (Log)[log.md] with addition information on previous DaysOfCode. 
+
+Side Projects:
+- Started Pokémon JavaScript Game (HTML Canvas) project. (1 Hour)
+
 ### Thoughts
 
 ### Link(s) to work
