@@ -17,7 +17,7 @@ Side Projects:
 
 ### Thoughts
 
--
+- I really enjoy Chris's tutorials. I realize that using console.log() can be helpful in determining if your code will work correctly! 
 
 ### Link(s) to work
 
