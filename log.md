@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+## 100 Days Of Code - Log
 
 ##Day 20: July 13, 2022, Wednesday
 
