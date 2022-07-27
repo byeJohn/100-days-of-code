@@ -21,7 +21,7 @@
 - Used https://venusmist.com/ as a temporary hosting website. 
 
 ### Thoughts
-- After nearly 2 weeks, I was finally able to finish the [Pokémon JavaScript Game (HTML Canvas)] (https://www.youtube.com/watch?v=yP5DKzriqXA). It has definitely allowed me to have a better / clear understanding of HTML and JavaScript. There are still some bugs in the gameplay. When colliding into corners, the player can get stuck. I plan to debug that tomorrow.
+- After nearly 2 weeks, I was finally able to finish the [Pokémon JavaScript Game (HTML Canvas)](https://www.youtube.com/watch?v=yP5DKzriqXA). It has definitely allowed me to have a better / clear understanding of HTML and JavaScript. There are still some bugs in the gameplay. When colliding into corners, the player can get stuck. I plan to debug that tomorrow.
 
 - I plan to start back on @freeCodeCamp.
 
