@@ -24,7 +24,7 @@
 1. [Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA)
 2. [Completed Pokemon Game Code.](https://github.com/byeJohn/Pokemon-JavaScript-Game)
 3. [Pokemon Game Hosting Website](https://venusmist.com/)
-
+4. [100 Days Of Code - Log](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
 
 
 
