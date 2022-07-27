@@ -1,6 +1,6 @@
 ## 100 Days Of Code - Log
 
-## Day 33: July 27, 2022, Tuesday
+## Day 33: July 27, 2022, Wednesday
 
 ### Today's Progress:
 
@@ -27,7 +27,7 @@
 4. [100 Days Of Code - Log](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
 
 
-## Day 32: July 26, 2022, Monday
+## Day 32: July 26, 2022, Tuesday
 
 ### Today's Progress:
 
