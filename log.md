@@ -58,7 +58,7 @@
 - Battle end
 - Transition back to map
 - Adding music and sound effects
-- # Finished.
+- Finished.
 - Pushed code onto [github](https://github.com/byeJohn/Pokemon-JavaScript-Game).
 - Used https://venusmist.com/ as a temporary hosting website. 
 
