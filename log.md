@@ -1,5 +1,46 @@
 ## 100 Days Of Code - Log
 
+## Day 32: July 26, 2022, Monday
+
+### Today's Progress:
+
+[@freeCodeCamp](https://www.freecodecamp.org/):
+- Pasued
+
+[Pokémon JavaScript Game (HTML Canvas)](https://www.youtube.com/watch?v=yP5DKzriqXA):
+- Added Attacks - Fireball
+- Queueuing dialogue
+- Populating attacks based on chosen monster
+- Randomizing attacks
+- Display attack type
+- Battle end
+- Transition back to map
+- Adding music and sound effects
+- # Finished.
+- Pushed code onto github.
+- Used https://venusmist.com/ as a temporary hosting website. 
+
+### Thoughts
+- After nearly 2 weeks, I was finally able to finish the [Pokémon JavaScript Game (HTML Canvas)] (https://www.youtube.com/watch?v=yP5DKzriqXA). It has definitely allowed me to have a better / clear understanding of HTML and JavaScript. There are still some bugs in the gameplay. When colliding into corners, the player can get stuck. I plan to debug that tomorrow.
+
+- I plan to start back on @freeCodeCamp.
+
+### Link(s) to work
+1. [Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA)
+2. [Completed Pokemon Game Code.](https://github.com/byeJohn/Pokemon-JavaScript-Game)
+3. [Pokemon Game Hosting Website](https://venusmist.com/)
+
+
+
+
+
+
+
+
+
+
+
+
 ## Day 20: July 13, 2022, Wednesday
 
 ### Today's Progress:
