@@ -1,5 +1,47 @@
 ## 100 Days Of Code - Log
 
+## Day 33: July 27, 2022, Tuesday
+
+### Today's Progress:
+
+[@freeCodeCamp](https://www.freecodecamp.org/):
+
+[Pokémon JavaScript Game (HTML Canvas)](https://www.youtube.com/watch?v=yP5DKzriqXA):
+- Debugged issue where player is stuck when colliding into corners.
+- Updated code on all sources.  
+
+
+[#100DaysOfCode](https://www.100daysofcode.com/):
+- Added to the (Log)[log.md] with addition information on previous DaysOfCode. 
+
+
+### Thoughts
+- Today I updated my #100DaysOfCode log. Moving forward, I hope to update it daily. 
+
+- In the Pokemon Game, there still remains an issue with an area of the map. The left side of the map is a bit inaccessible due to my poor evaluation. The player is unable to move in some areas due to two colliding objects being too close to one another. I plan to fix this issue in the future!
+
+### Link(s) to work
+1. [Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA)
+2. [Completed Pokemon Game Code.](https://github.com/byeJohn/Pokemon-JavaScript-Game)
+3. [Pokemon Game Hosting Website](https://venusmist.com/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Day 32: July 26, 2022, Monday
 
 ### Today's Progress:
@@ -29,7 +71,7 @@
 1. [Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA)
 2. [Completed Pokemon Game Code.](https://github.com/byeJohn/Pokemon-JavaScript-Game)
 3. [Pokemon Game Hosting Website](https://venusmist.com/)
-
+4. [100 Days Of Code - Log](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
 
 
 
