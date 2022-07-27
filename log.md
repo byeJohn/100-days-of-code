@@ -27,21 +27,6 @@
 4. [100 Days Of Code - Log](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Day 32: July 26, 2022, Monday
 
 ### Today's Progress:
@@ -74,15 +59,6 @@
 4. [100 Days Of Code - Log](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
 
 
-
-
-
-
-
-
-
-
-
 ## Day 20: July 13, 2022, Wednesday
 
 ### Today's Progress:
@@ -98,14 +74,6 @@ Side Projects:
 ### Link(s) to work
 1. [Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA)
 2. [100 Days Of Code - Log](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
-
-
-
-
-
-
-
-
 
 
 ## Day 19: July 12, 2022, Tuesday
@@ -156,16 +124,6 @@ Side Projects:
 
 1. [Pokémon JavaScript Game (HTML Canvas) Tutorial.](https://www.youtube.com/watch?v=yP5DKzriqXA)
 2. [100 Days Of Code - Log](https://github.com/byeJohn/100-days-of-code/blob/master/log.md)
-
-
-
-
-
-
-
-
-
-
 
 
 ## Day 17: July 10, 2022, Sunday
